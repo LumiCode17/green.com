@@ -28,3 +28,4 @@ burger.addEventListener("click", () => {
     burger.classList.replace("fa-times", "fa-bars");
   }
 });
+
